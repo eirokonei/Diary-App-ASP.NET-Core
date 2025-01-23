@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rokon\\source\\repos\\MyDiary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70D6AE5C-D320-49D2-8576-9577FF97D52A}|MyDiary\\MyDiary.csproj|c:\\users\\rokon\\source\\repos\\mydiary\\mydiary\\views\\diaryentries\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70D6AE5C-D320-49D2-8576-9577FF97D52A}|MyDiary\\MyDiary.csproj|solutionrelative:mydiary\\views\\diaryentries\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D6AE5C-D320-49D2-8576-9577FF97D52A}|MyDiary\\MyDiary.csproj|c:\\users\\rokon\\source\\repos\\mydiary\\mydiary\\controllers\\diaryentriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D6AE5C-D320-49D2-8576-9577FF97D52A}|MyDiary\\MyDiary.csproj|solutionrelative:mydiary\\controllers\\diaryentriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D6AE5C-D320-49D2-8576-9577FF97D52A}|MyDiary\\MyDiary.csproj|c:\\users\\rokon\\source\\repos\\mydiary\\mydiary\\mydiary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{70D6AE5C-D320-49D2-8576-9577FF97D52A}|MyDiary\\MyDiary.csproj|solutionrelative:mydiary\\mydiary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D6AE5C-D320-49D2-8576-9577FF97D52A}|MyDiary\\MyDiary.csproj|c:\\users\\rokon\\source\\repos\\mydiary\\mydiary\\views\\diaryentries\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70D6AE5C-D320-49D2-8576-9577FF97D52A}|MyDiary\\MyDiary.csproj|solutionrelative:mydiary\\views\\diaryentries\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D6AE5C-D320-49D2-8576-9577FF97D52A}|MyDiary\\MyDiary.csproj|c:\\users\\rokon\\source\\repos\\mydiary\\mydiary\\views\\diaryentries\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70D6AE5C-D320-49D2-8576-9577FF97D52A}|MyDiary\\MyDiary.csproj|solutionrelative:mydiary\\views\\diaryentries\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D6AE5C-D320-49D2-8576-9577FF97D52A}|MyDiary\\MyDiary.csproj|c:\\users\\rokon\\source\\repos\\mydiary\\mydiary\\views\\diaryentries\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70D6AE5C-D320-49D2-8576-9577FF97D52A}|MyDiary\\MyDiary.csproj|solutionrelative:mydiary\\views\\diaryentries\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D6AE5C-D320-49D2-8576-9577FF97D52A}|MyDiary\\MyDiary.csproj|c:\\users\\rokon\\source\\repos\\mydiary\\mydiary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D6AE5C-D320-49D2-8576-9577FF97D52A}|MyDiary\\MyDiary.csproj|solutionrelative:mydiary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D6AE5C-D320-49D2-8576-9577FF97D52A}|MyDiary\\MyDiary.csproj|c:\\users\\rokon\\source\\repos\\mydiary\\mydiary\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D6AE5C-D320-49D2-8576-9577FF97D52A}|MyDiary\\MyDiary.csproj|solutionrelative:mydiary\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D6AE5C-D320-49D2-8576-9577FF97D52A}|MyDiary\\MyDiary.csproj|c:\\users\\rokon\\source\\repos\\mydiary\\mydiary\\models\\diaryentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D6AE5C-D320-49D2-8576-9577FF97D52A}|MyDiary\\MyDiary.csproj|solutionrelative:mydiary\\models\\diaryentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D6AE5C-D320-49D2-8576-9577FF97D52A}|MyDiary\\MyDiary.csproj|c:\\users\\rokon\\source\\repos\\mydiary\\mydiary\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{70D6AE5C-D320-49D2-8576-9577FF97D52A}|MyDiary\\MyDiary.csproj|solutionrelative:mydiary\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D6AE5C-D320-49D2-8576-9577FF97D52A}|MyDiary\\MyDiary.csproj|c:\\users\\rokon\\source\\repos\\mydiary\\mydiary\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70D6AE5C-D320-49D2-8576-9577FF97D52A}|MyDiary\\MyDiary.csproj|solutionrelative:mydiary\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyDiary",
+              "DocumentMoniker": "C:\\Users\\Rokon\\source\\repos\\MyDiary\\MyDiary\\MyDiary.csproj",
+              "RelativeDocumentMoniker": "MyDiary\\MyDiary.csproj",
+              "ToolTip": "C:\\Users\\Rokon\\source\\repos\\MyDiary\\MyDiary\\MyDiary.csproj",
+              "RelativeToolTip": "MyDiary\\MyDiary.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-23T18:47:09.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rokon\\source\\repos\\MyDiary\\MyDiary\\Views\\DiaryEntries\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MyDiary\\Views\\DiaryEntries\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Rokon\\source\\repos\\MyDiary\\MyDiary\\Views\\DiaryEntries\\Delete.cshtml",
+              "RelativeToolTip": "MyDiary\\Views\\DiaryEntries\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-23T17:30:05.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rokon\\source\\repos\\MyDiary\\MyDiary\\Program.cs",
+              "RelativeDocumentMoniker": "MyDiary\\Program.cs",
+              "ToolTip": "C:\\Users\\Rokon\\source\\repos\\MyDiary\\MyDiary\\Program.cs",
+              "RelativeToolTip": "MyDiary\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T16:27:18.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rokon\\source\\repos\\MyDiary\\MyDiary\\Views\\DiaryEntries\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MyDiary\\Views\\DiaryEntries\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Rokon\\source\\repos\\MyDiary\\MyDiary\\Views\\DiaryEntries\\Edit.cshtml",
+              "RelativeToolTip": "MyDiary\\Views\\DiaryEntries\\Edit.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T18:14:33.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rokon\\source\\repos\\MyDiary\\MyDiary\\Views\\DiaryEntries\\Create.cshtml",
+              "RelativeDocumentMoniker": "MyDiary\\Views\\DiaryEntries\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Rokon\\source\\repos\\MyDiary\\MyDiary\\Views\\DiaryEntries\\Create.cshtml",
+              "RelativeToolTip": "MyDiary\\Views\\DiaryEntries\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T17:23:11.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DiaryEntry.cs",
+              "DocumentMoniker": "C:\\Users\\Rokon\\source\\repos\\MyDiary\\MyDiary\\Models\\DiaryEntry.cs",
+              "RelativeDocumentMoniker": "MyDiary\\Models\\DiaryEntry.cs",
+              "ToolTip": "C:\\Users\\Rokon\\source\\repos\\MyDiary\\MyDiary\\Models\\DiaryEntry.cs",
+              "RelativeToolTip": "MyDiary\\Models\\DiaryEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T17:56:15.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Rokon\\source\\repos\\MyDiary\\MyDiary\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MyDiary\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Rokon\\source\\repos\\MyDiary\\MyDiary\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "MyDiary\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAqwAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T17:58:39.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rokon\\source\\repos\\MyDiary\\MyDiary\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "MyDiary\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Rokon\\source\\repos\\MyDiary\\MyDiary\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "MyDiary\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-07T16:31:50.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rokon\\source\\repos\\MyDiary\\MyDiary\\Views\\DiaryEntries\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyDiary\\Views\\DiaryEntries\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Rokon\\source\\repos\\MyDiary\\MyDiary\\Views\\DiaryEntries\\Index.cshtml",
+              "RelativeToolTip": "MyDiary\\Views\\DiaryEntries\\Index.cshtml",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAuwD0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-06T05:53:20.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Rokon\\source\\repos\\MyDiary\\MyDiary\\appsettings.json",
+              "RelativeDocumentMoniker": "MyDiary\\appsettings.json",
+              "ToolTip": "C:\\Users\\Rokon\\source\\repos\\MyDiary\\MyDiary\\appsettings.json",
+              "RelativeToolTip": "MyDiary\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-17T17:53:22.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DiaryEntriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Rokon\\source\\repos\\MyDiary\\MyDiary\\Controllers\\DiaryEntriesController.cs",
+              "RelativeDocumentMoniker": "MyDiary\\Controllers\\DiaryEntriesController.cs",
+              "ToolTip": "C:\\Users\\Rokon\\source\\repos\\MyDiary\\MyDiary\\Controllers\\DiaryEntriesController.cs",
+              "RelativeToolTip": "MyDiary\\Controllers\\DiaryEntriesController.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAowGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T17:54:30.31Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
